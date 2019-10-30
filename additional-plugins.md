@@ -7,7 +7,7 @@ permalink: additionalplugins.html
 disqus: false
 ---
 
-[English](#third-party agents/plugins) | [ÇÑ±Û](#third-party agents/plugins-1)
+[English](##third-party agents/plugins) | [í•œê¸€](##third-party agents/plugins-1)
 ## Third-party agents/plugins
 
 There may be agents, and plugins that are being developed and managed by other individuals/organizations.
@@ -26,14 +26,14 @@ If you are working on an agent or a plugin and want to add it to this list, plea
 
 ## Third-party agents/plugins
 
-´Ù¸¥ °³ÀÎ/Á¶Á÷ÀÌ °³¹ßÇÏ°í °ü¸®ÇÏ´Â ¿¡ÀÌÀüÆ®¿Í ÇÃ·¯±×ÀÎÀÌ ÀÖÀ» ¼ö ÀÖ´Ù.
+ë‹¤ë¥¸ ê°œì¸/ì¡°ì§ì´ ê°œë°œí•˜ê³  ê´€ë¦¬í•˜ëŠ” ì—ì´ì „íŠ¸ì™€ í”ŒëŸ¬ê·¸ì¸ì´ ìˆì„ ìˆ˜ ìˆë‹¤.
 
-¾Æ·¡´Â ÀÌ ÀúÀå¼Ò¿¡ º´ÇÕµÇÁö ¾ÊÀº ¿¡ÀÌÀüÆ®¿Í ÇÃ·¯±×ÀÎÀÌ´Ù.
-°ü½ÉÀÌ ÀÖ°í µµ¿ÍÁÙ »ı°¢ÀÌ ÀÖ´Ù¸é Âü°íÇÏ¸é µÈ´Ù.
-* ¿¡ÀÌÀüÆ®
+ì•„ë˜ëŠ” ì´ ì €ì¥ì†Œì— ë³‘í•©ë˜ì§€ ì•Šì€ ì—ì´ì „íŠ¸ì™€ í”ŒëŸ¬ê·¸ì¸ì´ë‹¤.
+ê´€ì‹¬ì´ ìˆê³  ë„ì™€ì¤„ ìƒê°ì´ ìˆë‹¤ë©´ ì°¸ê³ í•˜ë©´ ëœë‹¤.
+* ì—ì´ì „íŠ¸
   * NodeJS agent - https://github.com/peaksnail/pinpoint-node-agent
-* ÇÃ·¯±×ÀÎ
+* í”ŒëŸ¬ê·¸ì¸
   * Websphere - https://github.com/sjmittal/pinpoint/tree/cpu_monitoring_fix/plugins/websphere
   * RocketMQ - https://github.com/ruizlake/pinpoint/tree/master/plugins/rocketmq
 
-Á÷Á¢ ¸¸µç ¿¡ÀÌÀüÆ® ¶Ç´Â ÇÃ·¯±×ÀÎÀ» ÀÌ ¸ñ·Ï¿¡ Ãß°¡ÇÏ·Á¸é, ¾ğÁ¦µçÁö [¹®ÀÇ](mailto:roy.kim@navercorp.com) ÇÒ¼ö ÀÖ´Ù.
+ì§ì ‘ ë§Œë“  ì—ì´ì „íŠ¸ ë˜ëŠ” í”ŒëŸ¬ê·¸ì¸ì„ ì´ ëª©ë¡ì— ì¶”ê°€í•˜ë ¤ë©´, ì–¸ì œë“ ì§€ [ë¬¸ì˜](mailto:roy.kim@navercorp.com) í• ìˆ˜ ìˆë‹¤.
