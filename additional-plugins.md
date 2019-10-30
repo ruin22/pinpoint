@@ -7,10 +7,10 @@ permalink: additionalplugins.html
 disqus: false
 ---
 
-[English]("#third-party agents/plugins") | [한글]("#third-party agents/plugins-1")
-[English](#alarm) | [한글](#alarm-1)
+[English](#third-party agents/plugins) | [한글](#third-party agents/plugins-1)
+[English](#alarm-a) | [한글](#alarm-a-1)
 ## Third-party agents/plugins
-## Alarm
+## Alarm-a
 
 There may be agents, and plugins that are being developed and managed by other individuals/organizations.
 
@@ -27,7 +27,7 @@ If you are working on an agent or a plugin and want to add it to this list, plea
 ---
 
 ## Third-party agents/plugins
-## Alarm
+## Alarm-a
 
 다른 개인/조직이 개발하고 관리하는 에이전트와 플러그인이 있을 수 있다.
 
