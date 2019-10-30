@@ -7,8 +7,8 @@ permalink: additionalplugins.html
 disqus: false
 ---
 
-[English](##third) | [한글](##third-1)
-[English](##alarm) | [한글](##alarm-1)
+[English](#third) | [한글](#third-1)
+[English](#alarm) | [한글](#alarm-1)
 ## Third-party agents/plugins
 ## Alarm
 
